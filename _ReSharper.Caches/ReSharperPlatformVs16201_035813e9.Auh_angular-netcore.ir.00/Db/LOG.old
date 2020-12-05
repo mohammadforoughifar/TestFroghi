@@ -1,0 +1,53 @@
+2020/11/22-06:36:43.765 15b8 Recovering log #156
+2020/11/22-06:36:43.943 15b8 Level-0 table #167: started
+2020/11/22-06:36:43.957 15b8 Level-0 table #167: 3032356 bytes OK
+2020/11/22-06:36:43.962 15b8 Delete type=0 #156
+2020/11/22-06:36:43.963 15b8 Delete type=3 #154
+2020/11/22-06:36:45.744 372c Compacting 1@0 + 1@1 files
+2020/11/22-06:36:45.749 372c Generated table #169: 444 keys, 98638 bytes
+2020/11/22-06:36:45.993 372c Generated table #170: 209 keys, 2112244 bytes
+2020/11/22-06:36:46.004 372c Generated table #171: 98 keys, 2616120 bytes
+2020/11/22-06:36:46.008 372c Generated table #172: 71 keys, 308003 bytes
+2020/11/22-06:36:46.008 372c Compacted 1@0 + 1@1 files => 5135005 bytes
+2020/11/22-06:36:46.010 372c Delete type=2 #158
+2020/11/22-06:36:46.010 372c Delete type=2 #167
+2020/11/22-06:36:46.011 372c compacted to: files[ 0 4 35 0 0 0 0 ]
+2020/11/22-06:36:46.106 372c Compacting 1@1 + 1@2 files
+2020/11/22-06:36:46.199 372c Generated table #173: 4453 keys, 2147298 bytes
+2020/11/22-06:36:46.201 372c Generated table #174: 6 keys, 5961 bytes
+2020/11/22-06:36:46.201 372c Compacted 1@1 + 1@2 files => 2153259 bytes
+2020/11/22-06:36:46.201 372c Delete type=2 #161
+2020/11/22-06:36:46.202 372c Delete type=2 #169
+2020/11/22-06:36:46.202 372c compacted to: files[ 0 3 36 0 0 0 0 ]
+2020/11/22-06:36:57.376 372c Compacting 1@1 + 2@2 files
+2020/11/22-06:36:58.028 372c Generated table #175: 2059 keys, 2521799 bytes
+2020/11/22-06:36:58.174 372c Generated table #176: 4 keys, 2762627 bytes
+2020/11/22-06:36:58.174 372c Compacted 1@1 + 2@2 files => 5284426 bytes
+2020/11/22-06:36:58.175 372c Delete type=2 #163
+2020/11/22-06:36:58.176 372c Delete type=2 #164
+2020/11/22-06:36:58.176 372c Delete type=2 #171
+2020/11/22-06:36:58.177 372c compacted to: files[ 0 2 36 0 0 0 0 ]
+2020/11/22-06:37:01.732 372c Compacting 1@1 + 1@2 files
+2020/11/22-06:37:01.762 372c Generated table #177: 375 keys, 601572 bytes
+2020/11/22-06:37:01.762 372c Compacted 1@1 + 1@2 files => 601572 bytes
+2020/11/22-06:37:01.762 372c Delete type=2 #165
+2020/11/22-06:37:01.763 372c Delete type=2 #172
+2020/11/22-06:37:01.763 372c compacted to: files[ 0 1 36 0 0 0 0 ]
+2020/11/22-08:40:05.679 372c Level-0 table #179: started
+2020/11/22-08:40:05.705 372c Level-0 table #179: 3883217 bytes OK
+2020/11/22-08:40:05.707 372c Delete type=0 #168
+2020/11/22-08:40:10.369 372c Compacting 1@0 + 1@1 files
+2020/11/22-08:40:10.373 372c Generated table #180: 498 keys, 100098 bytes
+2020/11/22-08:40:10.385 372c Generated table #181: 209 keys, 2112244 bytes
+2020/11/22-08:40:10.395 372c Generated table #182: 105 keys, 2616249 bytes
+2020/11/22-08:40:10.399 372c Generated table #183: 79 keys, 302067 bytes
+2020/11/22-08:40:10.399 372c Compacted 1@0 + 1@1 files => 5130658 bytes
+2020/11/22-08:40:10.401 372c Delete type=2 #170
+2020/11/22-08:40:10.402 372c Delete type=2 #179
+2020/11/22-08:40:10.402 372c compacted to: files[ 0 4 36 0 0 0 0 ]
+2020/11/22-08:40:16.292 372c Compacting 1@1 + 1@2 files
+2020/11/22-08:40:16.311 372c Generated table #184: 4455 keys, 2122325 bytes
+2020/11/22-08:40:16.311 372c Compacted 1@1 + 1@2 files => 2122325 bytes
+2020/11/22-08:40:16.312 372c Delete type=2 #173
+2020/11/22-08:40:16.312 372c Delete type=2 #180
+2020/11/22-08:40:16.313 372c compacted to: files[ 0 3 36 0 0 0 0 ]

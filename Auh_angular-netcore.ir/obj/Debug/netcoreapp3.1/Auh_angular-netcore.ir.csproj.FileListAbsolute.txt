@@ -1,0 +1,210 @@
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.exe
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\staticwebassets\Auh_angular-netcore.ir.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\staticwebassets\Auh_angular-netcore.ir.StaticWebAssets.xml
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.deps.json
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.runtimeconfig.json
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.pdb
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.pdb
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.MvcApplicationPartsAssemblyInfo.cache
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.exe
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.deps.json
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.runtimeconfig.json
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.runtimeconfig.dev.json
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.pdb
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.AssemblyInfoInputs.cache
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.AssemblyInfo.cs
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csproj.CoreCompileInputs.cache
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.MvcApplicationPartsAssemblyInfo.cs
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.MvcApplicationPartsAssemblyInfo.cache
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.RazorTargetAssemblyInfo.cache
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csproj.CopyComplete
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\staticwebassets\Auh_angular-netcore.ir.StaticWebAssets.Manifest.cache
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\staticwebassets\Auh_angular-netcore.ir.StaticWebAssets.xml
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.dll
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.pdb
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.genruntimeconfig.cache
+D:\My project\Web\ReactTest\TopLearn-FullProject-React (2)\TopLearn-Full\TopLearn-Full-Api\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.exe
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.deps.json
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.runtimeconfig.json
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Auh_angular-netcore.ir.pdb
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\staticwebassets\Auh_angular-netcore.ir.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\staticwebassets\Auh_angular-netcore.ir.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.dll
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.pdb
+C:\Users\Administrator\Desktop\ReactTop\Auh_angular-netcore.ir\Auh_angular-netcore.ir\Auh_angular-netcore.ir\obj\Debug\netcoreapp3.1\Auh_angular-netcore.ir.genruntimeconfig.cache

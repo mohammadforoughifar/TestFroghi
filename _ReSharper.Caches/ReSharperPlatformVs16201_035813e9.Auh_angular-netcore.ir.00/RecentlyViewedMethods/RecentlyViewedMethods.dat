@@ -1,0 +1,14 @@
+﻿<RecentlyViewedMethods>
+  <RecentlyViewedMethods>
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.Entities.User.set_AccessAllUser%28System.Boolean%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.ir.Controllers.UserController.Login%28Auh_angular_netcore.Entities.User%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.Services.UserService.UserService.UpdateUser%28Auh_angular_netcore.Entities.User%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.Services.UserService.UserService.Authenticate%28System.String%2CSystem.String%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.Services.UserService.IUserService.UpdateUser%28Auh_angular_netcore.Entities.User%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.ir.Services.CourseService.IcourseServices.GetCourseById%28System.Int32%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.Services.UserService.IUserService.GetUserById%28System.Int32%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.ir.Controllers.UserController.GetUserById%28System.Int32%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.ir.DTo.CreateToken.GenerateJwtToken%28Auh_angular_netcore.Entities.User%29" />
+    <RecentMethod id="6c8abba6-11d9-4da1-b17e-6f69751d65db%28Auh_angular-netcore.ir%29-A37BD1A4%5B.NETCoreApp%2CVersion%3Dv3.1%5D/M%3AAuh_angular_netcore.Services.UserService.UserService.GetUserById%28System.Int32%29" />
+  </RecentlyViewedMethods>
+</RecentlyViewedMethods>

@@ -1,0 +1,36 @@
+2020/11/28-07:18:53.332 205c Recovering log #178
+2020/11/28-07:18:53.395 205c Level-0 table #186: started
+2020/11/28-07:18:53.399 205c Level-0 table #186: 232562 bytes OK
+2020/11/28-07:18:53.403 205c Delete type=0 #178
+2020/11/28-07:18:53.404 205c Delete type=3 #166
+2020/11/28-07:18:55.195 31c0 Compacting 1@0 + 3@1 files
+2020/11/28-07:18:55.200 31c0 Generated table #188: 69 keys, 41360 bytes
+2020/11/28-07:18:56.305 31c0 Generated table #189: 209 keys, 2112244 bytes
+2020/11/28-07:18:56.557 31c0 Generated table #190: 105 keys, 2616281 bytes
+2020/11/28-07:18:56.696 31c0 Generated table #191: 85 keys, 321086 bytes
+2020/11/28-07:18:56.696 31c0 Compacted 1@0 + 3@1 files => 5090971 bytes
+2020/11/28-07:18:56.696 31c0 compacted to: files[ 0 4 36 0 0 0 0 ]
+2020/11/28-07:18:57.601 31c0 Compacting 1@1 + 1@2 files
+2020/11/28-07:18:58.734 31c0 Generated table #192: 4461 keys, 2140560 bytes
+2020/11/28-07:18:58.734 31c0 Compacted 1@1 + 1@2 files => 2140560 bytes
+2020/11/28-07:18:58.735 31c0 Delete type=2 #181
+2020/11/28-07:18:58.735 31c0 Delete type=2 #182
+2020/11/28-07:18:58.735 31c0 Delete type=2 #183
+2020/11/28-07:18:58.736 31c0 Delete type=2 #186
+2020/11/28-07:18:58.829 31c0 compacted to: files[ 0 3 36 0 0 0 0 ]
+2020/11/28-07:19:21.951 31c0 Compacting 1@1 + 2@2 files
+2020/11/28-07:19:22.640 31c0 Generated table #193: 2059 keys, 2521799 bytes
+2020/11/28-07:19:22.964 31c0 Generated table #194: 4 keys, 2762627 bytes
+2020/11/28-07:19:22.964 31c0 Compacted 1@1 + 2@2 files => 5284426 bytes
+2020/11/28-07:19:22.965 31c0 Delete type=2 #175
+2020/11/28-07:19:22.965 31c0 Delete type=2 #176
+2020/11/28-07:19:22.966 31c0 Delete type=2 #184
+2020/11/28-07:19:22.966 31c0 Delete type=2 #188
+2020/11/28-07:19:22.966 31c0 Delete type=2 #190
+2020/11/28-07:19:22.967 31c0 compacted to: files[ 0 2 36 0 0 0 0 ]
+2020/11/28-07:19:25.463 31c0 Compacting 1@1 + 1@2 files
+2020/11/28-07:19:25.656 31c0 Generated table #195: 375 keys, 601562 bytes
+2020/11/28-07:19:25.656 31c0 Compacted 1@1 + 1@2 files => 601562 bytes
+2020/11/28-07:19:25.657 31c0 Delete type=2 #177
+2020/11/28-07:19:25.658 31c0 Delete type=2 #191
+2020/11/28-07:19:25.658 31c0 compacted to: files[ 0 1 36 0 0 0 0 ]
